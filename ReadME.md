@@ -1,6 +1,6 @@
 ________________________________________Folder Structure____________________________________________
 	
-	project_solution/
+
 	├──  images/
 	│    └── (contains all images required for developing the website)
 	├──  includes/	 
