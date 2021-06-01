@@ -39,5 +39,5 @@ ____________________________________________SETUP_______________________________
 1.) Start the Apache and MySQL modules using the XAMPP controller.
 2.) Open the phpMyAdmin and create a database "store". 
 3.) Import the store.sql file present in the zip folder.
-4.) Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore.
+4.) Open the htdocs folder in the xampp folder. Copy paste the folder store.
 5.) Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
